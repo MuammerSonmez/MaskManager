@@ -1,0 +1,128 @@
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.exe
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.deps.json
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.runtimeconfig.json
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.pdb
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Business.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Entities.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Business.pdb
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\bin\Debug\net8.0\Entities.pdb
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.csproj.AssemblyReference.cache
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.AssemblyInfoInputs.cache
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.AssemblyInfo.cs
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.csproj.CoreCompileInputs.cache
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.csproj.CopyComplete
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\refint\Workspace.dll
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.pdb
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.genruntimeconfig.cache
+C:\Users\Irem\Desktop\C# FullStack\MaskeTakip\Workspace\obj\Debug\net8.0\ref\Workspace.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.exe
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.deps.json
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.runtimeconfig.json
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Workspace.pdb
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Business.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Entities.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Business.pdb
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\bin\Debug\net8.0\Entities.pdb
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.csproj.AssemblyReference.cache
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.AssemblyInfoInputs.cache
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.AssemblyInfo.cs
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.csproj.CoreCompileInputs.cache
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.csproj.Up2Date
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\refint\Workspace.dll
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.pdb
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\Workspace.genruntimeconfig.cache
+C:\Users\muamm\Desktop\Projeler\C#\breakup\MaskeTakip\Workspace\obj\Debug\net8.0\ref\Workspace.dll
